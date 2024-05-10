@@ -10,10 +10,12 @@ A Reactjs Boilerplate
 - [ ] Tailwind 4.0
 - [ ] Storybook
 - [ ] JSDocs / Typescript
-- VERSIONS
+
+VERSIONS
 - [ ] PWA
 - [ ] Capacitor
 - [ ] Electron
-- IDEAS
+
+IDEAS
 - [ ] Sqlite
 - [ ] Drizzle
