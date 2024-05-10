@@ -1,8 +1,9 @@
-# Reactjs-boilerplate v0.0.1
+# Reactjs-boilerplate v0.0.2
 
 A Reactjs Boilerplate 
 
 - [x] React 19 Beta
+- [ ] Prettier
 - [ ] React Router
 - [ ] Axios
 - [ ] Redux Toolkit
